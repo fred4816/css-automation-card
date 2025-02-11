@@ -25,19 +25,19 @@
 /* =============================================================================================================== */
 .container {
     outline: 2px solid pink;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* height: 100vh; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
 }
 
 .main-content {
-    outline: 2px solid green;
+    /* outline: 2px solid green;
     height: 80%;
-    width: 80%;
+    width: 80%; */
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
 }
 
 

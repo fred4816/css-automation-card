@@ -40,7 +40,7 @@ automation_cards.forEach((automation_card) => {
                 card_cover.classList.remove('card-cover-minimised');
                 card_heading.classList.remove('card-heading-expanded');
                 card_content.classList.remove('card-content-visible');
-            }, 400);
+            }, 500);
 
         } else {
             card_cover.classList.remove('card-cover-minimised');
